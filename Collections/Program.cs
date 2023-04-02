@@ -11,7 +11,6 @@ namespace Collections
             {
                 System.Console.WriteLine(i);
             }
-
         }
     }
 }
